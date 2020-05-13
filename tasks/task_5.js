@@ -1,4 +1,3 @@
-'use strict';
 
 const КИТАЙ = 100;
 const ЧИЛИ = 250;
